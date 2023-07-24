@@ -1,4 +1,4 @@
 The first row is the wavelength （μm）. The second row is the real part of the refractive index. The third row is the refractive index imaginary part.
-The material parameters of SiO2 are derived from： https://refractiveindex.info/?shelf=main&book=SiO2&page=Popova.
+The material parameters of SiO2 are derived from： https://refractiveindex.info/?shelf=main&book=SiO2&page=Popova. The imaginary part of the refractive index of silica is very close to 0 at wavelengths less than 7 micrometers and is therefore set to 0.
 The material parameters of Al2O3 are derived from： https://refractiveindex.info/?shelf=main&book=Al2O3&page=Querry-o
-Less than 7 um wavelength, the imaginary part of the refractive index of SiO2 is very close to 0, so it is set to 0.
+ 
